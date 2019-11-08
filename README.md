@@ -1,3 +1,2 @@
 # gitbatch25a
-
-test for delete
+test for merge
