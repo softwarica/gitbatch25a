@@ -1,2 +1,2 @@
 # gitbatch25a
-test for merge
+test merge
